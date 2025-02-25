@@ -48,9 +48,7 @@ fun main() {
   ![Tsukumi233's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsukumi233&show_icons=true&theme=tokyonight)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsukumi233&layout=compact&theme=tokyonight)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tsukumi233&theme=tokyonight)
-  
+    
 </div>
 
 ---
