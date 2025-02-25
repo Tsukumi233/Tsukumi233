@@ -53,14 +53,6 @@ fun main() {
   
 </div>
 
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/-Tsukumi233-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tsukumi233)
-
-</div>
-
 ---
 
 <div align="center">
