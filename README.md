@@ -12,7 +12,7 @@
 ## 🌟 About Me
 
 ```kotlin
-data class Developer(
+data class Tsukumi(
     val name: String = "Tsukumi233",
     val role: String = "Developer",
     val languageSpoken: List<String> = listOf("zh_CN", "en_US"),
@@ -23,7 +23,7 @@ data class Developer(
 }
 
 fun main() {
-    val me = Developer()
+    val me = Tsukumi()
     me.sayHi()
 }
 ```
