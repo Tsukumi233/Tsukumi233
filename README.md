@@ -41,11 +41,8 @@ fun main() {
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 </div>
 
-## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![Tsukumi233's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsukumi233&show_icons=true&theme=tokyonight)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsukumi233&layout=compact&theme=tokyonight)
     
