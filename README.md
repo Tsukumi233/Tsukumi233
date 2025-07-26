@@ -16,8 +16,8 @@ data class Tsukumi(
     val name: String = "Tsukumi233",
     val role: String = "Developer",
     val languageSpoken: List<String> = listOf("zh_CN", "en_US"),
-    val code: List<String> = listOf("Python", "C", "C++"),
-    val interests: List<String> = listOf("Software Development", "Open Source", "AI/ML")
+    val code: List<String> = listOf("Python", "C", "C++", "JavaScript"),
+    val interests: List<String> = listOf("Software Development", "AI/ML", "Open Source")
 ) {
     fun sayHi() = println("Thanks for dropping by! Feel free to collaborate or ask questions!")
 }
