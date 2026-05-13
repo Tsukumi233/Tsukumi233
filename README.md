@@ -40,7 +40,6 @@ fun main() {
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF4500?style=flat-square&logo=huggingface&logoColor=white)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square)
-  ![VS Code](https://img.shields.io/badge/-Cursor-181717?style=flat-square)
 </div>
 
 
